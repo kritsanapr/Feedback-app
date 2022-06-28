@@ -55,7 +55,7 @@ function App() {
             Home
           </NavLink>
           <NavLink to="/about" activeClassName="active">
-            About
+            Abouts
           </NavLink>
         </Card> */}
       </div>
